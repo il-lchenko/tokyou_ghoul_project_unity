@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="vangog_ideal" size="0.220000 0.257875" />
+    <ImageTarget name="hot_podstavka" size="0.430000 0.670402" />
+    <ImageTarget name="sumka_laptop" size="0.400000 0.280625" />
+    <ImageTarget name="vangogcover" size="0.220000 0.180984" />
+  </Tracking>
+</QCARConfig>

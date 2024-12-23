@@ -1,0 +1,10 @@
+# ninja log v5
+283	1808	7562171827619548	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	dda1ceb34637ecf6
+290	1835	7562171827902527	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a9a2dbe5300fa7ee
+270	1860	7562171828156434	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	1a0cb20eb3c1416b
+306	1896	7562171828529094	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c0ff6870ba842585
+297	2014	7562171829672677	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	8d04eba9424ea042
+264	2075	7562171830413427	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	9c7681b2f816997c
+277	2264	7562171832317060	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	d97557648b047886
+1	2393	7562171833586576	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c64a6a44ff1ebe6e
+2394	2924	7562171838922413	D:/VUZ/UnityProjects/Tokyo Ghoul Project/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5k2e4b6h/obj/arm64-v8a/libgame.so	282b4a1d579092ad
